@@ -5,11 +5,15 @@
 }
 #about{
     height: auto;
+    width: 100%;
+    background: gray;
 }
 #about h2{
     line-height: inherit;
     font-weight: lighter;
+    padding-left: 200px;
 }
 #about p{
     line-height: inherit;
+    padding-left: 200px;
 }
