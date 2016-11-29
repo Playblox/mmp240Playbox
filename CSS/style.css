@@ -1,4 +1,15 @@
 *{
     padding: 0px;
     margin: 0px;
+    font-family: serif, sans-serif, monospace;
+}
+#about{
+    height: auto;
+}
+#about h2{
+    line-height: inherit;
+    font-weight: lighter;
+}
+#about p{
+    line-height: inherit;
 }
